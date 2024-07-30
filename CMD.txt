@@ -1,0 +1,3 @@
+Abri no CMD pra saber a posição de click
+
+python -m mouseinfo
